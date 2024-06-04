@@ -10,7 +10,7 @@ This project requires node.js to be installed
 
 ## Bootstrap
 
-This project utilizes bootstrap which can be installed
+This project utilizes bootstrap which can be installed using:
 ```bash
 npm install react-bootstrap bootstrap
 ```
